@@ -1,0 +1,23 @@
+html, body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 0;
+  height: 100%;
+}
+
+main {
+  flex: 1;
+}
+
+ul li {
+  list-style: none;
+}
+
+footer {
+  background-color: hsl(0, 0%, 4%);
+  text-align: center;
+  padding: 1rem;
+  border-top: 1px solid hsl(0, 0%, 0%);
+  color: white;
+}
