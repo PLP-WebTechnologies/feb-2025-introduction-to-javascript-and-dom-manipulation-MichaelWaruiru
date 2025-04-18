@@ -10,6 +10,10 @@ main {
   flex: 1;
 }
 
+button {
+  padding: 10px;
+}
+
 ul li {
   list-style: none;
 }
@@ -20,4 +24,5 @@ footer {
   padding: 1rem;
   border-top: 1px solid hsl(0, 0%, 0%);
   color: white;
+  margin-top: 10px;
 }
